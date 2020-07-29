@@ -14,3 +14,5 @@ The front-end is written in VUE.js, and only needs to be served statically by yo
 
 
 This is a very quick-and-dirty implementation, but it allowed me to get my feet wet with VUE. Hopefully I'll have the time to polish this up a bit, there are plenty of features I'd like to add and the UI could definitely use an overhaul.
+
+Of particular note is that there's no database, and the 'secret' word is the same every time.
