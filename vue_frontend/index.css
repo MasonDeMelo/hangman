@@ -1,0 +1,26 @@
+#hangman{
+    margin: 5%;
+    font-family: monospace;
+}
+.image-and-word {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.word-display {
+    letter-spacing: 10px;
+    font-size: xxx-large;
+    font-weight: bold;
+}
+
+.guess-selection-area{
+    margin-top: 3vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.guess {
+    margin: 3vw;
+}
